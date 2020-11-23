@@ -1,1 +1,0 @@
-helm install mygitlab $PSScriptRoot\..\
